@@ -1,0 +1,3 @@
+﻿  Assembling Source.asm...
+C:\irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  try1.vcxproj -> C:\Users\hassan\source\repos\try1\Debug\try1.exe
